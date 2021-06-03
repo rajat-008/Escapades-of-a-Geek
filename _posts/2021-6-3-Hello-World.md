@@ -13,7 +13,7 @@ First off, let me explain to you the reasoning behind the name and caption.
 
 By the name Geeky Escapades, I'm trying to express the adventures that I take up as a geek. Although I'm not really sure if I am a geek, but since my friend [Vinay](https://www.linkedin.com/in/vinay-shashidhara/) suggested it, and it kinda sounded cool I decided to keep it😅. 
 
-By experiments I mean investigations taken up to explore a certain area, or to ascertain an opinion. Thoughts in one sense would qualify as experiments, but I'd like to differentiate between efforts made physically versus those made mentally. To frame it otherwise, thoughts represent mental ventures, with the same purpose as that of experiments. Now it so happens to me that these endeavours happen to me out of the blue. To signify this in the caption, I follow it up with "Deliberate and Random".
+By experiments I mean investigations taken up to explore a certain area, or to ascertain an opinion. Thoughts in one sense would qualify as experiments, but I'd like to differentiate between efforts made physically versus those made mentally. To frame it otherwise, thoughts represent mental ventures, with the same purpose as that of experiments. Now it so happens at times that these endeavours happen without any deliberate intent. To signify this in the caption, I follow it up with "Deliberate and Random". As if the universe sent those ideas to me, XD.
 
 Although there is a lot more I would like to discuss about the title and the caption, I'll reserve that for sometime in future😄.
 
