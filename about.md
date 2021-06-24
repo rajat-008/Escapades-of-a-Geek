@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey there! Rajat here.
 
-### More Information
+### Who am I?
+An engineering student from Bangalore, I'm 
 
-A place to include any other types of information that you'd like to include about yourself.
+### What do I do?
+I think and I expermient.
+Well, with regards to computers and coding, I have the flexibility to quickly exeriment with and validate my thoughts and that's what I do apart from my academic commitments.
+On the technical side of things I'm well-versed in Python, with experience in Flask, PyTorch, Numpy and Pandas.
+Pretty soon I'll be joining an IT company, and maybe that'll define what i do next.
 
-### Contact me
+### What am I pursuing?
+Currently I'm pursuing my GCP ACE certification. Also, I'm learning Golang, Kubernetes and Microservices. 
 
-[email@domain.com](mailto:email@domain.com)
+### Connect with me
+[https://www.linkedin.com/in/rajat-m-jain/](Connect with me on Linkedin)
