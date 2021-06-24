@@ -21,4 +21,4 @@ Currently I'm pursuing my GCP ACE certification. Also, I'm learning Golang, Kube
 I find myself ideating a lot, but when it comes to validation, I'm not sure. So this blog is to put out into open my ideas, so that they are open for validation. Along with this, it gives me an opportunity to share what I've learnt.
 
 ### Connect with me
-[https://www.linkedin.com/in/rajat-m-jain/](Connect with me on Linkedin)
+[Connect with me on Linkedin](https://www.linkedin.com/in/rajat-m-jain/)
