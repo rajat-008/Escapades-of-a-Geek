@@ -17,6 +17,6 @@ The name and description might have seemed flexible enough to include a wide ran
 Although there is a lot more I would like to discuss about the title and the caption, I'll reserve that for sometime in future😄.
 
 This is all for today.
-Please drop your feedback and ideas via [GitHub discussions](https://github.com/rajat-008/GeekyEscapades/discussions) for now. I'll attempt to explore a friendly way to integrate communication into this space in future.
+Please drop your feedback and ideas via [GitHub discussions](https://github.com/rajat-008/GeekyEscapades/discussions/2) for now. I'll attempt to explore a friendly way to integrate communication into this space in future.
 
 Thank you!
