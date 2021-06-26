@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
 Hey there! Rajat here.
 
 ### Who am I?
