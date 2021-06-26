@@ -18,7 +18,6 @@ On the technical side of things I'm well-versed in Python, with experience in Fl
 Currently I'm pursuing my GCP ACE certification. Also, I'm learning Golang, Kubernetes and Microservices. 
 
 ### Why GeekyEscapades?
-I find myself ideating a lot, but when it comes to validation, I'm not sure. So this blog is to put out into open my ideas, so that they are open for validation. Along with this, it gives me an opportunity to share what I've learnt.
+I've always felt the urge to share ideas that come to me, in order to learn and also share what I've learnt. GeekyEscapades is that space where I'll be sharing my ideas and experiments to gain feedback and share my experiences. Also, GeekyEscapades is the space where I'd like to take the liberty to be wrong, hoping to be corrected by someone.
 
-### Connect with me
 [Connect with me on Linkedin](https://www.linkedin.com/in/rajat-m-jain/)
