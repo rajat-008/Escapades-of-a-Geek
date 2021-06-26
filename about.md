@@ -19,5 +19,3 @@ Currently I'm pursuing my GCP ACE certification. Also, I'm learning Golang, Kube
 
 ### Why GeekyEscapades?
 I've always felt the urge to share ideas that come to me, in order to learn and also share what I've learnt. GeekyEscapades is that space where I'll be sharing my ideas and experiments to gain feedback and share my experiences. Also, GeekyEscapades is the space where I'd like to take the liberty to be wrong, hoping to be corrected by someone.
-
-[Connect with me on Linkedin](https://www.linkedin.com/in/rajat-m-jain/)
