@@ -2,7 +2,7 @@
 layout: post
 title: Hello World!
 ---
-Welcome to Geeky Escapades, a space where I share my experiences of experiments, real and imaginary, undertaken deliberately or unknowningly.
+Welcome to Geeky Escapades, a **space** where I share my experiences of experiments, real and imaginary, undertaken deliberately or unknowningly.
 
 Before anything I would first like to thank you for taking time to visit GeekyEscapades😊.
 
